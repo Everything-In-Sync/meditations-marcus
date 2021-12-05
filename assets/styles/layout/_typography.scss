@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Cinzel";
+    src: url("../fonts/Cinzel.ttf");
+}
+@font-face {
+    font-family: "Cinzel-Bold";
+    src: url("../fonts/Cinzel-Bold.ttf");
+}
+.book{
+    font-family: Cinzel-Bold, helvetica, sans-serif;
+    color: #610000;
+}
+.author{
+    font-family: Cinzel, helvetica, sans-serif;
+}
+p{
+font-family: 'Merriweather', serif;
+}

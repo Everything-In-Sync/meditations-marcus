@@ -1,0 +1,50 @@
+@media only screen and (max-width: 600px) {
+.book{
+  font-size: 12vw !important;
+}
+.author{
+  font-size: 6.5vw !important;
+}
+.quote{
+  margin: 0% 10% 0% 10% !important;
+}
+.passage{
+  margin: 0% 10% 0% 10% !important;
+}
+}
+html{
+    margin-bottom: 0px;
+  }
+body{
+    background-color: $background-color-light;
+}
+.book{
+  font-size: 8vw;
+  margin-top: -7%;
+}
+.author{
+  font-size: 4vw;
+}
+.title{
+  text-align: center;
+}
+.quote{
+  margin: 0% 25% 0% 25%;
+  padding-top: 1.5em;
+}
+.passage{
+  padding-top: 1.5em;
+  margin: 0% 25% 0% 25%;
+  font-size: 20px;
+  line-height: 1.8em;
+}
+.support{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  top: 75%;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+

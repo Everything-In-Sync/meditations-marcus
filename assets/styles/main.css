@@ -1,0 +1,150 @@
+.mode {
+  text-align: right;
+}
+
+.toggle {
+  cursor: pointer;
+  border-style: none;
+  background: none;
+}
+
+.new-quote {
+  cursor: pointer;
+  border-style: none;
+  background: none;
+  font-size: 20px;
+}
+
+.new-quote :hover {
+  color: red !important;
+}
+
+.social-sharing {
+  padding-top: 20px;
+}
+
+.twitter {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #1ca1f1;
+}
+
+.reddit {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #ff4400;
+}
+
+@media only screen and (max-width: 600px) {
+  .book {
+    font-size: 12vw !important;
+  }
+  .author {
+    font-size: 6.5vw !important;
+  }
+  .quote {
+    margin: 0% 10% 0% 10% !important;
+  }
+  .passage {
+    margin: 0% 10% 0% 10% !important;
+  }
+}
+
+html {
+  margin-bottom: 0px;
+}
+
+body {
+  background-color: #fefffe;
+}
+
+.book {
+  font-size: 8vw;
+  margin-top: -7%;
+}
+
+.author {
+  font-size: 4vw;
+}
+
+.title {
+  text-align: center;
+}
+
+.quote {
+  margin: 0% 25% 0% 25%;
+  padding-top: 1.5em;
+}
+
+.passage {
+  padding-top: 1.5em;
+  margin: 0% 25% 0% 25%;
+  font-size: 20px;
+  line-height: 1.8em;
+}
+
+.support {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  top: 75%;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.align-center {
+  text-align: center;
+}
+
+@font-face {
+  font-family: "Cinzel";
+  src: url("../fonts/Cinzel.ttf");
+}
+
+@font-face {
+  font-family: "Cinzel-Bold";
+  src: url("../fonts/Cinzel-Bold.ttf");
+}
+
+.book {
+  font-family: Cinzel-Bold, helvetica, sans-serif;
+  color: #610000;
+}
+
+.author {
+  font-family: Cinzel, helvetica, sans-serif;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+
+.fade {
+  animation: fadeIn linear 4s;
+  -webkit-animation: fadeIn linear 4s;
+  -moz-animation: fadeIn linear 4s;
+  -o-animation: fadeIn linear 4s;
+  -ms-animation: fadeIn linear 4s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/*# sourceMappingURL=main.css.map */

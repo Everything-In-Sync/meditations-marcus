@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcus Aurelius</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/styles/main.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- Image for link sharing -->
+    <meta property="og:image" content="https://i.ibb.co/wJwQNgz/marcus.png" />
+    <meta property="og:description" content="Passages from Meditations by Marcus Aurelius" />
+    <meta property="og:url" content="https://confident-borg-c29ce3.netlify.app/" />
+    <meta property="og:title" content="Meditations Passage Generator" />
+    <!-- Image for link sharing -->
+    <script type="text/javascript">
+        window.heap = window.heap || [], heap.load = function (e, t) {
+            window.heap.appid = e, window.heap.config = t = t || {};
+            var r = document.createElement("script");
+            r.type = "text/javascript", r.async = !0, r.src = "https://cdn.heapanalytics.com/js/heap-" + e + ".js";
+            var a = document.getElementsByTagName("script")[0];
+            a.parentNode.insertBefore(r, a);
+            for (var n = function (e) {
+                    return function () {
+                        heap.push([e].concat(Array.prototype.slice.call(arguments, 0)))
+                    }
+                }, p = ["addEventProperties", "addUserProperties", "clearEventProperties", "identify",
+                    "resetIdentity", "removeEventProperty", "setEventProperties", "track", "unsetEventProperty"
+                ], o = 0; o < p.length; o++) heap[p[o]] = n(p[o])
+        };
+        heap.load("3493791155");
+    </script>
+    <script src="https://kit.fontawesome.com/ab8c6e0022.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="top">
+        <div class="mode">
+            <button class="toggle"><img class="toggle-image" height="35px" src="assets/images/moon.png"></button>
+            <span id="mode" class="light"></span>
+        </div>
+    </div>
+    <div class="color-switch">
+        <div class="title">
+            <h3 class="author">Marcus Aurelius</h3>
+            <h1 class="book">Meditations</h1>
+            <div class="main-content">
+                <p class="quote align-center fade"> </p>
+                <p class="passage align-center"></p>
+            </div>
+        </div>
+    </div>
+    <div class="support">
+        <div class="align-center"><button class="new-quote">Click for Passage</button></div>
+        <div class="social-sharing">
+            <button class="twitter"><i class="fab fa-twitter fa-3x twitter"></i></button>
+            <button class="reddit"><i class="fab fa-reddit fa-3x reddit"></i></button>
+        </div>
+        <!-- <div class="submit-form">
+            <form name="submit-passage" action="">
+                <div class="input-box">
+                    <textarea name="passage" id="passage" class="text-input" minlength="10"
+                        required> Type your passage here </textarea>
+                    <br>
+                    <input type ="text" name ="pass-num" id ="pass-num" minlength ="2" placeholder ="Passage Number" class ="text-input">
+                    <br>
+                    <input type="submit" name="submit" class="form-button" id="submit-btn" value="Submit">
+                </div>
+            </form>
+        </div> -->
+    </div>
+</body>
+<script src="assets/js/quotes.js"></script>
+<script src="assets/js/quoteGen.js"></script>
+<script src="assets/js/modeSwitch.js"></script>
+<script src="assets/js/socialShare.js"></script>
+<script src="assets/js/form.js"></script>
+
+</html>
+
