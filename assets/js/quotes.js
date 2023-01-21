@@ -217,6 +217,18 @@ let quotes = [
         quote : "Wash yourself clean. With simplicity, with humility, with indifference to everything but right and wrong. Care for other human beings. Follow God.",
         passNum : "7.31",
     },
+    {
+        used : false,
+        id : 36,
+        quote : "People who feel hurt and resentment picture them as the pig at the sacrifice, kicking and squaling all the way.",
+        passNum : "10.28",
+    },
+    {
+        used : false,
+        id : 36,
+        quote : "That no one can say honestly that you are not a truthful or honest person, that anyone who thinks that believes a falsehood. The responsibily is all yours, no one can stop you from being honest or straighforward.",
+        passNum : "10.28",
+    },
 ]
 
 
