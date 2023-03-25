@@ -232,47 +232,51 @@ let quotes = [
     {
         used : false,
         id : 37,
-        quote : "Character and self control",
+        quote : "MY GRANDFATHER VERUS -Character and self control",
         passNum : "1.1",
     },
     {
         used : false,
         id : 38,
-        quote : "Integrity and manliness",
+        quote : "MY FATHER - Integrity and manliness",
         passNum : "1.2",
     },
     {
         used : false,
         id : 38,
-        quote : "Her reverence for the divine, her generosity, her inability not only to do wrong but even to conceive of doing it. And the simple way she lived-not in the least like the rich",
+        quote : "MY MOTHER - Her reverence for the divine, her generosity, her inability not only to do wrong but even to conceive of doing it. And the simple way she lived-not in the least like the rich",
         passNum : "1.3",
     },
     {
         used : false,
         id : 39,
-        quote : "To avoid the public schools, to hire good private teachers, and to accept the resulting costs as money well spent",
+        quote : "MY GREAT GRANDFATHER - To avoid the public schools, to hire good private teachers, and to accept the resulting costs as money well spent",
         passNum : "1.4",
     },
     {
         used : false,
         id : 40,
-        quote : "Not to support this or that in chariot-racing, this fighter or that in the games.To put up with discomfort and not make demands. To do my own work and mind my own business, and to have no time for slanderes",
+        quote : "MY FIRST TEACHER - Not to support this or that in chariot-racing, this fighter or that in the games.To put up with discomfort and not make demands. To do my own work and mind my own business, and to have no time for slanderes",
         passNum : "1.5",
     },
     {
         used : false,
         id : 41,
-        quote : "Not to waste time on nonsense. not to be taken in by conjurors and hoodo artists with their talk about incantations and exorcism and all the rest of it.Not to be obsessed with quail-fighting or other crazies like that.To hear unwelcome truths. To study philosophy and to study with Baccheious, and then with Tandasis and Marcianus. To write dialouds as a student. To choose the greek lifestyle-the camp-bed and the cloak",
+        quote : "DIOGNETUS - Not to waste time on nonsense. not to be taken in by conjurors and voodo artists with their talk about incantations and exorcism and all the rest of it.Not to be obsessed with quail-fighting or other crazies like that.To hear unwelcome truths. To study philosophy and to study with Baccheious, and then with Tandasis and Marcianus. To write dialouds as a student. To choose the greek lifestyle-the camp-bed and the cloak",
         passNum : "1.6",
     },
     {
         used : false,
         id : 42,
-        quote : "The rcognition that I needed to train and discipline my carachter. Not to be sidetracted by my interest and rhetoric. Not to write my treasties on abstract questions, or deliver little moralizing sermons, or compose imaginary descriptions of the Simple Life or The Man Who Only Lives For Others. To steer clear of oratory, poetry and belles letters",
-        passNum : "1.3",
+        quote : " RUSTICUS - The recognition that I needed to train and discipline my character. Not to be sidetracked by my interest and rhetoric. Not to write my treastises on abstract questions, or deliver little moralizing sermons, or compose imaginary descriptions of the Simple Life or The Man Who Only Lives For Others. To steer clear of oratory, poetry and belles letters. Not to dress up just to stroll around the house, or things like that. To write straightforward letters and to behave in a conciliatory way when people who have angered or annoyed us want to make up. To read attentively, not to be satisfied with just getting the gist of it. And not to fall for every smooth talker. And for introducing me to Epictetus's lectures - and loaning me his own copy.",
+        passNum : "1.7",
     },
-
-
+    {
+        used : false,
+        id : 43,
+        quote : "APOLLONIUS - Independence and unvarying reliability, and to pay attention to nothing, no matter how fleetingly, except the logos. And to be the same in all circumstances-intense pain, the loss of a child, chronic illness. And to see clearly from his example, that man can show both strength and flexibility. His patience in teaching. And to have seen someone who clearly viewed his expertise and ability as a teacher as the humblest of virtues. And to have learned how to accept favors from friends without losing your self respect or appearing ungrateful",
+        passNum : "1.8",
+    },
 
 
 
