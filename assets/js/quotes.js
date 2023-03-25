@@ -256,7 +256,7 @@ let quotes = [
     {
         used : false,
         id : 40,
-        quote : "MY FIRST TEACHER - Not to support this or that in chariot-racing, this fighter or that in the games.To put up with discomfort and not make demands. To do my own work and mind my own business, and to have no time for slanderes",
+        quote : "MY FIRST TEACHER - Not to support this or that in chariot-racing, this fighter or that in the games.To put up with discomfort and not make demands. To do my own work and mind my own business, and to have no time for slanderers",
         passNum : "1.5",
     },
     {
@@ -276,6 +276,36 @@ let quotes = [
         id : 43,
         quote : "APOLLONIUS - Independence and unvarying reliability, and to pay attention to nothing, no matter how fleetingly, except the logos. And to be the same in all circumstances-intense pain, the loss of a child, chronic illness. And to see clearly from his example, that man can show both strength and flexibility. His patience in teaching. And to have seen someone who clearly viewed his expertise and ability as a teacher as the humblest of virtues. And to have learned how to accept favors from friends without losing your self respect or appearing ungrateful",
         passNum : "1.8",
+    },
+    {
+        used : false,
+        id : 44,
+        quote : "SEXTUS - Kindness. An example of fatherly authority in the home. What is means to live as nature requires. Gravity without airs. To show intuitive sympathy for friends, tolerance to amateurs and sloppy thinkers. His ability to get along with everyone: Sharing his company was the highest of compliments, and the ability to honor for those around him. To investigate and analyize, with understanding and logic, the principals we ought to live by. Not to display anger or other emotions. To be free of passion yet full of love. To praise without bombast; to display expertise without pre-tension.",
+        passNum : "1.9",
+    },
+    {
+        used : false,
+        id : 44,
+        quote : "THE LITERACY CRITIC ALEXANDER - Not to be constantly correcting people, and in particular not to jump on them whenever they make an error of usage or a grammitical mistake or mispronounce something, but just answer their question or add another example, or debate the issue itself (not their phrasing), or make some other contribution to the discussion-and insert the right expression, unobtrusively.",
+        passNum : "1.10",
+    },
+    {
+        used : false,
+        id : 44,
+        quote : "FRONTO - To recognize the malice, cunning, and hypocrisy that power produces, and the peculiar ruthlessness often shown by people from 'good families'",
+        passNum : "1.11",
+    },
+    {
+        used : false,
+        id : 44,
+        quote : "ALEXANDER THE PLATONIST - Not to be constantly telling people (or writing them) that I'm too busy, unless I really am. Similarly not to always be ducking my responsibilities to the people around me due to 'pressing business' ",
+        passNum : "1.12",
+    },
+    {
+        used : false,
+        id : 45,
+        quote : "CATULUS - Not to shrug off a friends resentment - even unjustified resentment - but to ty to put things right. To show your teachers ungrudging respect and your children unfeigned love",
+        passNum : "1.13",
     },
 
 
