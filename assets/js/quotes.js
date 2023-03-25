@@ -229,6 +229,64 @@ let quotes = [
         quote : "That no one can say honestly that you are not a truthful or honest person, that anyone who thinks that believes a falsehood. The responsibily is all yours, no one can stop you from being honest or straighforward.",
         passNum : "10.28",
     },
+    {
+        used : false,
+        id : 37,
+        quote : "Character and self control",
+        passNum : "1.1",
+    },
+    {
+        used : false,
+        id : 38,
+        quote : "Integrity and manliness",
+        passNum : "1.2",
+    },
+    {
+        used : false,
+        id : 38,
+        quote : "Her reverence for the divine, her generosity, her inability not only to do wrong but even to conceive of doing it. And the simple way she lived-not in the least like the rich",
+        passNum : "1.3",
+    },
+    {
+        used : false,
+        id : 39,
+        quote : "To avoid the public schools, to hire good private teachers, and to accept the resulting costs as money well spent",
+        passNum : "1.4",
+    },
+    {
+        used : false,
+        id : 40,
+        quote : "Not to support this or that in chariot-racing, this fighter or that in the games.To put up with discomfort and not make demands. To do my own work and mind my own business, and to have no time for slanderes",
+        passNum : "1.5",
+    },
+    {
+        used : false,
+        id : 41,
+        quote : "Not to waste time on nonsense. not to be taken in by conjurors and hoodo artists with their talk about incantations and exorcism and all the rest of it.Not to be obsessed with quail-fighting or other crazies like that.To hear unwelcome truths. To study philosophy and to study with Baccheious, and then with Tandasis and Marcianus. To write dialouds as a student. To choose the greek lifestyle-the camp-bed and the cloak",
+        passNum : "1.6",
+    },
+    {
+        used : false,
+        id : 42,
+        quote : "The rcognition that I needed to train and discipline my carachter. Not to be sidetracted by my interest and rhetoric. Not to write my treasties on abstract questions, or deliver little moralizing sermons, or compose imaginary descriptions of the Simple Life or The Man Who Only Lives For Others. To steer clear of oratory, poetry and belles letters",
+        passNum : "1.3",
+    },
+
+
+
+
+
+
+
+
+
+    {
+        used : false,
+        id : 39,
+        quote : " ",
+        passNum : "1.3",
+    },
+
 ]
 
 
