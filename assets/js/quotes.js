@@ -243,67 +243,67 @@ let quotes = [
     },
     {
         used : false,
-        id : 38,
+        id : 39,
         quote : "MY MOTHER - Her reverence for the divine, her generosity, her inability not only to do wrong but even to conceive of doing it. And the simple way she lived-not in the least like the rich",
         passNum : "1.3",
     },
     {
         used : false,
-        id : 39,
+        id : 40,
         quote : "MY GREAT GRANDFATHER - To avoid the public schools, to hire good private teachers, and to accept the resulting costs as money well spent",
         passNum : "1.4",
     },
     {
         used : false,
-        id : 40,
+        id : 41,
         quote : "MY FIRST TEACHER - Not to support this or that in chariot-racing, this fighter or that in the games.To put up with discomfort and not make demands. To do my own work and mind my own business, and to have no time for slanderers",
         passNum : "1.5",
     },
     {
         used : false,
-        id : 41,
+        id : 42,
         quote : "DIOGNETUS - Not to waste time on nonsense. not to be taken in by conjurors and voodo artists with their talk about incantations and exorcism and all the rest of it.Not to be obsessed with quail-fighting or other crazies like that.To hear unwelcome truths. To study philosophy and to study with Baccheious, and then with Tandasis and Marcianus. To write dialouds as a student. To choose the greek lifestyle-the camp-bed and the cloak",
         passNum : "1.6",
     },
     {
         used : false,
-        id : 42,
+        id : 43,
         quote : " RUSTICUS - The recognition that I needed to train and discipline my character. Not to be sidetracked by my interest and rhetoric. Not to write my treastises on abstract questions, or deliver little moralizing sermons, or compose imaginary descriptions of the Simple Life or The Man Who Only Lives For Others. To steer clear of oratory, poetry and belles letters. Not to dress up just to stroll around the house, or things like that. To write straightforward letters and to behave in a conciliatory way when people who have angered or annoyed us want to make up. To read attentively, not to be satisfied with just getting the gist of it. And not to fall for every smooth talker. And for introducing me to Epictetus's lectures - and loaning me his own copy.",
         passNum : "1.7",
     },
     {
         used : false,
-        id : 43,
+        id : 44,
         quote : "APOLLONIUS - Independence and unvarying reliability, and to pay attention to nothing, no matter how fleetingly, except the logos. And to be the same in all circumstances-intense pain, the loss of a child, chronic illness. And to see clearly from his example, that man can show both strength and flexibility. His patience in teaching. And to have seen someone who clearly viewed his expertise and ability as a teacher as the humblest of virtues. And to have learned how to accept favors from friends without losing your self respect or appearing ungrateful",
         passNum : "1.8",
     },
     {
         used : false,
-        id : 44,
+        id : 45,
         quote : "SEXTUS - Kindness. An example of fatherly authority in the home. What is means to live as nature requires. Gravity without airs. To show intuitive sympathy for friends, tolerance to amateurs and sloppy thinkers. His ability to get along with everyone: Sharing his company was the highest of compliments, and the ability to honor for those around him. To investigate and analyize, with understanding and logic, the principals we ought to live by. Not to display anger or other emotions. To be free of passion yet full of love. To praise without bombast; to display expertise without pre-tension.",
         passNum : "1.9",
     },
     {
         used : false,
-        id : 44,
+        id : 46,
         quote : "THE LITERACY CRITIC ALEXANDER - Not to be constantly correcting people, and in particular not to jump on them whenever they make an error of usage or a grammitical mistake or mispronounce something, but just answer their question or add another example, or debate the issue itself (not their phrasing), or make some other contribution to the discussion-and insert the right expression, unobtrusively.",
         passNum : "1.10",
     },
     {
         used : false,
-        id : 44,
+        id : 47,
         quote : "FRONTO - To recognize the malice, cunning, and hypocrisy that power produces, and the peculiar ruthlessness often shown by people from 'good families'",
         passNum : "1.11",
     },
     {
         used : false,
-        id : 44,
+        id : 48,
         quote : "ALEXANDER THE PLATONIST - Not to be constantly telling people (or writing them) that I'm too busy, unless I really am. Similarly not to always be ducking my responsibilities to the people around me due to 'pressing business' ",
         passNum : "1.12",
     },
     {
         used : false,
-        id : 45,
+        id : 49,
         quote : "CATULUS - Not to shrug off a friends resentment - even unjustified resentment - but to ty to put things right. To show your teachers ungrudging respect and your children unfeigned love",
         passNum : "1.13",
     },
@@ -314,12 +314,12 @@ let quotes = [
 
 
 
-    {
-        used : false,
-        id : 39,
-        quote : " ",
-        passNum : "1.3",
-    },
+    // {
+    //     used : false,
+    //     id : 39,
+    //     quote : " ",
+    //     passNum : "1.3",
+    // },
 
 ]
 
