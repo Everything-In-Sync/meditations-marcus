@@ -55,12 +55,12 @@ let quotes = [
         quote : "Whatever happens to you is for the good of the world. That would be enough right there. But if you look closely you’ll generally notice something else as well: whatever happens to a single person is for the good of others",
         passNum : "6.45",
     },
-    {
-        used : false,
-        id : 9,
-        quote : "In short, know this: Human lives are brief and trivial. Yesterday a blob of semen; tomorrow embalming fluid, ash",
-        passNum : "4.48",
-    },
+    // {
+    //     used : false,
+    //     id : 9,
+    //     quote : "In short, know this: Human lives are brief and trivial. Yesterday a blob of semen; tomorrow embalming fluid, ash",
+    //     passNum : "4.48",
+    // },
     {
         used : false,
         id : 10,
