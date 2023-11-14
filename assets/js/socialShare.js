@@ -11,13 +11,13 @@ const email = document.querySelector(".email");
 //     let shareUrl = `http://www.facebook.com/sharer/sharer.php?u=${url}`;
 //     window.open(shareUrl, "NewWindow", params);
 // });
-twitter.addEventListener("click", function (ev) {
-    let author = " - Marcus Aurelius"
-    let sharedQuote = document.querySelector(".quote").innerHTML;
-    let text = encodeURIComponent(sharedQuote + author);
-    let shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${text}&via=${user_id}&hashtags=${hash_tags}`;
-    window.open(shareUrl, "NewWindow", params);
-});
+// twitter.addEventListener("click", function (ev) {
+//     let author = " - Marcus Aurelius"
+//     let sharedQuote = document.querySelector(".quote").innerHTML;
+//     let text = encodeURIComponent(sharedQuote + author);
+//     let shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${text}&via=${user_id}&hashtags=${hash_tags}`;
+//     window.open(shareUrl, "NewWindow", params);
+// });
 reddit.addEventListener("click", function (ev) {
     let author = " - Marcus Aurelius"
     let sharedQuote = document.querySelector(".quote").innerHTML;
